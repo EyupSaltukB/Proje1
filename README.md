@@ -1,6 +1,7 @@
 <h1>NFT Proje Denemesi</h1>
 
-Yazılım kursunun ilk haftalarında denediğim ilk projelerdendir. Bu proje statik yapıdadır.
+Yazılım kursunun ilk haftalarında oluşturduğum ilk projelerdendir.
+Bu bir deneme projesi olup statik yapıdadır.
 
 <h2> Kullanılan Teknolojiler</h2>
 
