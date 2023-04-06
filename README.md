@@ -12,6 +12,9 @@ HTML ve CSS kullanıldı.
 ![](screen1.png)
 ![](screen2.png)
 ![](screen3.png)
+
+<h4> Video </h4>
+
 ![](video.mp4)
 
 <h4> GIF </h4>
