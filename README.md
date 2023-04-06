@@ -15,4 +15,5 @@ HTML ve CSS kullanıldı.
 ![](video.mp4)
 
 <h4> GIF </h4>
-![](giphy1.gif)
+![](giphy1.gif
+)
