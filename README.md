@@ -22,7 +22,5 @@ https://user-images.githubusercontent.com/129687853/230254221-6348951e-8a15-49aa
 
 
 <h4> GIF </h4>
-![](giphy1.gif
-)
 
 ![giphy](https://user-images.githubusercontent.com/129687853/230253763-428e6c4f-24b9-45d1-bb87-4fa8509f1584.gif)
